@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: "Comfortaa", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  text-decoration: none;
+  font-family: "Comfortaa", sans-serif;
+}
+
+code {
+  font-family: "Comfortaa", monospace;
+}
