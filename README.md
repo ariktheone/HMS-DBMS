@@ -101,11 +101,11 @@ Database : MySQL
 <b>Contributors:</b>
 <pre>
 <a href="https://github.com/ariktheone" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/117704271?v=4" alt="GitHub Logo" width="20" height="20" style="border-radius: 50%;"> Arijit Mondal
+    <img src="https://avatars.githubusercontent.com/u/117704271?v=4" alt="GitHub Logo" width="50" height="50" style="border-radius: 50%;"> Arijit Mondal
 </a>  
 
 <a href="https://github.com/DebjitRoy10" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/121539403?v=4" alt="GitHub Logo" width="20" height="20" style="border-radius: 50%;"> Debjit Roy
+    <img src="https://avatars.githubusercontent.com/u/121539403?v=4" alt="GitHub Logo" width="50" height="50" style="border-radius: 50%;"> Debjit Roy
 </a>
 </pre>
 
